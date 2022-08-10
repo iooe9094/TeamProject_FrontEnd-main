@@ -1,0 +1,240 @@
+[
+  {
+    "name": "CheckPayment",
+    "path": "/CheckPayment",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/CheckPayment.vue",
+    "chunkName": "pages/CheckPayment",
+    "_name": "_7b9d875a"
+  },
+  {
+    "name": "file-http-common",
+    "path": "/file-http-common",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/file-http-common.js",
+    "chunkName": "pages/file-http-common",
+    "_name": "_0e6d67bb"
+  },
+  {
+    "name": "http-common",
+    "path": "/http-common",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/http-common.js",
+    "chunkName": "pages/http-common",
+    "_name": "_eaa72db8"
+  },
+  {
+    "name": "LogIn",
+    "path": "/LogIn",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/LogIn.vue",
+    "chunkName": "pages/LogIn",
+    "_name": "_e26e7938"
+  },
+  {
+    "name": "MapExample",
+    "path": "/MapExample",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/MapExample.vue",
+    "chunkName": "pages/MapExample",
+    "_name": "_18ebe023"
+  },
+  {
+    "name": "mypage",
+    "path": "/mypage",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/mypage/index.vue",
+    "chunkName": "pages/mypage/index",
+    "_name": "_572fe75a"
+  },
+  {
+    "name": "Qna",
+    "path": "/Qna",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/Qna.vue",
+    "chunkName": "pages/Qna",
+    "_name": "_e87d0602"
+  },
+  {
+    "name": "SearchResult",
+    "path": "/SearchResult",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/SearchResult.vue",
+    "chunkName": "pages/SearchResult",
+    "_name": "_671d1e4c"
+  },
+  {
+    "name": "SignUp",
+    "path": "/SignUp",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/SignUp/index.vue",
+    "chunkName": "pages/SignUp/index",
+    "_name": "_55122b30"
+  },
+  {
+    "name": "UploadImage",
+    "path": "/UploadImage",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/UploadImage.vue",
+    "chunkName": "pages/UploadImage",
+    "_name": "_78082616"
+  },
+  {
+    "name": "board-List",
+    "path": "/board/List",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/board/List.vue",
+    "chunkName": "pages/board/List",
+    "_name": "_e12a3d48"
+  },
+  {
+    "name": "board-Write",
+    "path": "/board/Write",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/board/Write.vue",
+    "chunkName": "pages/board/Write",
+    "_name": "_55b4aa91"
+  },
+  {
+    "name": "find-id",
+    "path": "/find/id",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/find/id.vue",
+    "chunkName": "pages/find/id",
+    "_name": "_72a50f28"
+  },
+  {
+    "name": "find-password",
+    "path": "/find/password",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/find/password.vue",
+    "chunkName": "pages/find/password",
+    "_name": "_6e3dd1a8"
+  },
+  {
+    "name": "inform-List",
+    "path": "/inform/List",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/inform/List.vue",
+    "chunkName": "pages/inform/List",
+    "_name": "_319cabdf"
+  },
+  {
+    "name": "inform-Write",
+    "path": "/inform/Write",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/inform/Write.vue",
+    "chunkName": "pages/inform/Write",
+    "_name": "_0c879f24"
+  },
+  {
+    "name": "items-List",
+    "path": "/items/List",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/items/List.vue",
+    "chunkName": "pages/items/List",
+    "_name": "_28b1847c"
+  },
+  {
+    "name": "service-IndexDataService",
+    "path": "/service/IndexDataService",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/service/IndexDataService.js",
+    "chunkName": "pages/service/IndexDataService",
+    "_name": "_56d73487"
+  },
+  {
+    "name": "service-ItemDetailDataService",
+    "path": "/service/ItemDetailDataService",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/service/ItemDetailDataService.js",
+    "chunkName": "pages/service/ItemDetailDataService",
+    "_name": "_c5286c72"
+  },
+  {
+    "name": "service-ItemListDataService",
+    "path": "/service/ItemListDataService",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/service/ItemListDataService.js",
+    "chunkName": "pages/service/ItemListDataService",
+    "_name": "_65d879d4"
+  },
+  {
+    "name": "service-ReviewDataService",
+    "path": "/service/ReviewDataService",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/service/ReviewDataService.js",
+    "chunkName": "pages/service/ReviewDataService",
+    "_name": "_7e27fc5b"
+  },
+  {
+    "name": "service-ShoppingCartDataService",
+    "path": "/service/ShoppingCartDataService",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/service/ShoppingCartDataService.js",
+    "chunkName": "pages/service/ShoppingCartDataService",
+    "_name": "_4da5f06b"
+  },
+  {
+    "name": "service-UploadFilesService",
+    "path": "/service/UploadFilesService",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/service/UploadFilesService.js",
+    "chunkName": "pages/service/UploadFilesService",
+    "_name": "_628ac721"
+  },
+  {
+    "name": "service-UserDataService",
+    "path": "/service/UserDataService",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/service/UserDataService.js",
+    "chunkName": "pages/service/UserDataService",
+    "_name": "_67575d4e"
+  },
+  {
+    "name": "shoppingCart-ShoppingCart",
+    "path": "/shoppingCart/ShoppingCart",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/shoppingCart/ShoppingCart.vue",
+    "chunkName": "pages/shoppingCart/ShoppingCart",
+    "_name": "_e13ba76c"
+  },
+  {
+    "name": "SignUp-Complete",
+    "path": "/SignUp/Complete",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/SignUp/Complete.vue",
+    "chunkName": "pages/SignUp/Complete",
+    "_name": "_a43c262a"
+  },
+  {
+    "name": "tourItemDetails-components-ImgGalleryCom",
+    "path": "/tourItemDetails/components/ImgGalleryCom",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/tourItemDetails/components/ImgGalleryCom.vue",
+    "chunkName": "pages/tourItemDetails/components/ImgGalleryCom",
+    "_name": "_da846074"
+  },
+  {
+    "name": "board-detail-update-idx",
+    "path": "/board/detail/update/:idx?",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/board/detail/update/_idx.vue",
+    "chunkName": "pages/board/detail/update/_idx",
+    "_name": "_7e1face4"
+  },
+  {
+    "name": "inform-detail-update-idx",
+    "path": "/inform/detail/update/:idx?",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/inform/detail/update/_idx.vue",
+    "chunkName": "pages/inform/detail/update/_idx",
+    "_name": "_13af5627"
+  },
+  {
+    "name": "board-detail-idx",
+    "path": "/board/detail/:idx?",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/board/detail/_idx.vue",
+    "chunkName": "pages/board/detail/_idx",
+    "_name": "_58829c64"
+  },
+  {
+    "name": "inform-detail-idx",
+    "path": "/inform/detail/:idx?",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/inform/detail/_idx.vue",
+    "chunkName": "pages/inform/detail/_idx",
+    "_name": "_5e0f9deb"
+  },
+  {
+    "name": "payment-userIdx",
+    "path": "/payment/:userIdx?",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/payment/_userIdx.vue",
+    "chunkName": "pages/payment/_userIdx",
+    "_name": "_64f0ee71"
+  },
+  {
+    "name": "tourItemDetails-idx",
+    "path": "/tourItemDetails/:idx?",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/tourItemDetails/_idx.vue",
+    "chunkName": "pages/tourItemDetails/_idx",
+    "_name": "_26980a2b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/seok/Desktop/TeamProject_FrontEnd-main/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f76bd766"
+  }
+]
